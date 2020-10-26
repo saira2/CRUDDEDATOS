@@ -1,0 +1,12 @@
+C:\Users\admon\Documents\Visual Studio 2010\Projects\Console\ClasesProgramacion\ClasesProgramacion\bin\Debug\ClasesProgramacion.exe
+C:\Users\admon\Documents\Visual Studio 2010\Projects\Console\ClasesProgramacion\ClasesProgramacion\bin\Debug\ClasesProgramacion.pdb
+C:\Users\admon\Documents\Visual Studio 2010\Projects\Console\ClasesProgramacion\ClasesProgramacion\obj\x86\Debug\ClasesProgramacion.csprojResolveAssemblyReference.cache
+C:\Users\admon\Documents\Visual Studio 2010\Projects\Console\ClasesProgramacion\ClasesProgramacion\obj\x86\Debug\ClasesProgramacion.Dialogs.baseDialog.resources
+C:\Users\admon\Documents\Visual Studio 2010\Projects\Console\ClasesProgramacion\ClasesProgramacion\obj\x86\Debug\ClasesProgramacion.Forms.frmEstudiantesList.resources
+C:\Users\admon\Documents\Visual Studio 2010\Projects\Console\ClasesProgramacion\ClasesProgramacion\obj\x86\Debug\ClasesProgramacion.Properties.Resources.resources
+C:\Users\admon\Documents\Visual Studio 2010\Projects\Console\ClasesProgramacion\ClasesProgramacion\obj\x86\Debug\ClasesProgramacion.csproj.GenerateResource.Cache
+C:\Users\admon\Documents\Visual Studio 2010\Projects\Console\ClasesProgramacion\ClasesProgramacion\obj\x86\Debug\ClasesProgramacion.exe
+C:\Users\admon\Documents\Visual Studio 2010\Projects\Console\ClasesProgramacion\ClasesProgramacion\obj\x86\Debug\ClasesProgramacion.pdb
+C:\Users\admon\Documents\Visual Studio 2010\Projects\Console\ClasesProgramacion\ClasesProgramacion\obj\x86\Debug\ClasesProgramacion.Dialogs.EstudianteDialog.resources
+C:\Users\admon\Documents\Visual Studio 2010\Projects\Console\ClasesProgramacion\ClasesProgramacion\obj\x86\Debug\ClasesProgramacion.Dialogs.GastosDialog.resources
+C:\Users\admon\Documents\Visual Studio 2010\Projects\Console\ClasesProgramacion\ClasesProgramacion\obj\x86\Debug\ClasesProgramacion.Forms.frmGastosList.resources
